@@ -56,8 +56,7 @@ export default function Portfolio() {
         <div style={{ marginTop: "2rem" }}>
           <a href="https://www.linkedin.com/in/anurag-vishal-9a1014248/" className="button button-outline" target="_blank">LinkedIn</a>
           <a href="https://github.com/Anurag9Vishal" className="button button-outline" target="_blank">GitHub</a>
-          <a href="/Resume" download className="button button-primary">Download Résumé</a>
-        </div>
+                  </div>
       </section>
 
       <section className="glass section">
@@ -65,7 +64,7 @@ export default function Portfolio() {
         <div style={{ marginTop: "1.5rem" }}>
           <div style={{ backgroundColor: "#ffffff", borderRadius: "8px", padding: "1.5rem", boxShadow: "0 2px 12px rgba(0,0,0,0.05)" }}>
             <h3 style={{ fontWeight: "600", color: "#0f172a" }}>University of Miami</h3>
-            <p style={{ fontSize: "0.95rem", color: "#475569" }}><em>Research Intern – May • Miami, Florida</em></p>
+            <p style={{ fontSize: "0.95rem", color: "#475569" }}><em>Research Intern • Miami, Florida</em></p>
             <ul style={{ marginTop: "0.75rem", paddingLeft: "1.2rem", fontSize: "0.95rem" }}>
               <li>Performed advanced data analysis on high-temperature ceramic matrix composites (CMCs), evaluating mechanical properties under load.</li>
               <li>Developed ML-based predictive models for extreme thermal and oxidative environments.</li>
